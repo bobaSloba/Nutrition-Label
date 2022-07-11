@@ -1,0 +1,2 @@
+# Nutrition-Label
+In this project i learned about typography using HTML and CSS. I created a Nutrition Label using only those two , by using different classes and id's as selectors in CSS and adding them through out the HTML i was able to style the text. It was a kind of repetitive task but it was made much more fun by mixing things up, good job from freeCodeCamp on this one. All in all i learned a lot and practiced a lot with this project. Looking forward to the next one , i hope you are also having fun going with me on this journey.
